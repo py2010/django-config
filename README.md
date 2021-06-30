@@ -3,7 +3,7 @@ django app配置管理, 环境变量/settings/conf.py优先级控制
 业务程序从各自app/conf.py读取配置, 无需考虑优先级, 统一由conf配置文件来定.
 
 https://github.com/py2010/dx/tree/main/config  
-https://gitee.com/py2010/django-config  
+https://gitee.com/py2010/dx/tree/main/config  
 这个app本来不是在堡垒机保的, 个人觉得比较实用, 所以放进去. 大家可在dx这个项目查看.
 
 cat xxx_app/conf.py
